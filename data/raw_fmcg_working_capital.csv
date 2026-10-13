@@ -1,0 +1,46 @@
+company,ticker,basis,metric,FY2015,FY2016,FY2017,FY2018,FY2019,FY2020,FY2021,FY2022,FY2023,FY2024,FY2025
+Hindustan Unilever,HINDUNILVR,consolidated,debtor_days,12,14,12,13,17,11,14,16,19,18,23
+Hindustan Unilever,HINDUNILVR,consolidated,inventory_days,77,75,67,65,59,65,66,65,55,55,61
+Hindustan Unilever,HINDUNILVR,consolidated,payable_days,148,156,164,185,166,176,163,145,123,143,156
+Hindustan Unilever,HINDUNILVR,consolidated,ccc_reported,-60,-67,-85,-107,-90,-101,-83,-64,-50,-70,-72
+Hindustan Unilever,HINDUNILVR,consolidated,sales_cr,31972,32186,33162,35545,39310,39783,47028,52446,60580,61896,61328
+ITC,ITC,consolidated,debtor_days,19,18,21,23,30,19,19,15,15,22,23
+ITC,ITC,consolidated,inventory_days,212,244,185,173,165,187,189,150,148,191,178
+ITC,ITC,consolidated,payable_days,50,63,60,80,74,76,78,61,59,65,55
+ITC,ITC,consolidated,ccc_reported,181,199,145,115,122,129,129,104,105,148,146
+ITC,ITC,consolidated,sales_cr,38817,39192,42768,43449,48340,49388,49257,60645,70919,67932,75323
+Britannia Industries,BRITANNIA,standalone,debtor_days,4,5,5,9,12,8,6,7,7,8,8
+Britannia Industries,BRITANNIA,standalone,inventory_days,29,30,42,38,42,35,49,54,41,42,39
+Britannia Industries,BRITANNIA,standalone,payable_days,52,51,45,55,60,49,59,51,51,59,55
+Britannia Industries,BRITANNIA,standalone,ccc_reported,-19,-15,3,-8,-6,-6,-4,9,-3,-9,-8
+Britannia Industries,BRITANNIA,standalone,sales_cr,7176,7732,8414,9304,10482,10987,12379,13372,15618,16186,17296
+Dabur India,DABUR,consolidated,debtor_days,33,38,31,33,36,34,21,22,27,26,26
+Dabur India,DABUR,consolidated,inventory_days,136,150,153,169,154,164,178,169,158,149,175
+Dabur India,DABUR,consolidated,payable_days,153,182,181,190,172,176,197,178,171,186,215
+Dabur India,DABUR,consolidated,ccc_reported,16,6,3,13,17,22,3,12,14,-10,-14
+Dabur India,DABUR,consolidated,sales_cr,7795,7780,7614,7722,8515,8685,9562,10889,11530,12404,12563
+Marico,MARICO,consolidated,debtor_days,11,15,15,20,26,27,18,25,38,40,43
+Marico,MARICO,consolidated,inventory_days,139,110,193,190,147,157,108,106,94,116,93
+Marico,MARICO,consolidated,payable_days,79,80,107,103,98,108,109,101,112,137,103
+Marico,MARICO,consolidated,ccc_reported,71,46,101,106,74,76,17,30,20,19,33
+Marico,MARICO,consolidated,sales_cr,5733,6017,5918,6322,7334,7315,8048,9512,9764,9653,10831
+Godrej Consumer Products,GODREJCP,consolidated,debtor_days,36,48,41,46,46,43,33,33,34,40,46
+Godrej Consumer Products,GODREJCP,consolidated,inventory_days,102,123,125,135,125,146,127,128,84,73,79
+Godrej Consumer Products,GODREJCP,consolidated,payable_days,103,140,152,201,204,212,149,130,99,97,120
+Godrej Consumer Products,GODREJCP,consolidated,ccc_reported,34,32,13,-20,-33,-24,11,31,19,16,6
+Godrej Consumer Products,GODREJCP,consolidated,sales_cr,8273,8424,9268,9847,10314,9911,11029,12276,13316,14096,14364
+Tata Consumer Products,TATACONSUM,consolidated,debtor_days,28,33,32,35,34,35,24,25,21,22,18
+Tata Consumer Products,TATACONSUM,consolidated,inventory_days,176,164,168,143,146,115,132,132,144,140,152
+Tata Consumer Products,TATACONSUM,consolidated,payable_days,82,68,85,70,61,64,95,111,125,136,148
+Tata Consumer Products,TATACONSUM,consolidated,ccc_reported,122,128,114,108,120,87,61,45,40,25,22
+Tata Consumer Products,TATACONSUM,consolidated,sales_cr,7993,6637,6780,6815,7252,9637,11602,12425,13783,15206,17618
+Colgate-Palmolive (India),COLPAL,standalone,debtor_days,6,10,12,18,17,11,9,16,11,11,14
+Colgate-Palmolive (India),COLPAL,standalone,inventory_days,63,72,72,56,58,69,79,78,68,63,76
+Colgate-Palmolive (India),COLPAL,standalone,payable_days,128,136,148,152,144,142,179,169,155,187,185
+Colgate-Palmolive (India),COLPAL,standalone,ccc_reported,-59,-55,-63,-79,-68,-63,-91,-75,-76,-113,-95
+Colgate-Palmolive (India),COLPAL,standalone,sales_cr,3982,3868,3982,4188,4462,4525,4841,5100,5226,5680,6040
+Emami,EMAMILTD,consolidated,debtor_days,18,20,14,22,29,42,29,37,44,50,43
+Emami,EMAMILTD,consolidated,inventory_days,59,68,83,87,88,102,118,121,100,102,94
+Emami,EMAMILTD,consolidated,payable_days,90,112,85,109,115,135,138,138,124,143,133
+Emami,EMAMILTD,consolidated,ccc_reported,-13,-24,12,1,2,9,10,19,20,9,4
+Emami,EMAMILTD,consolidated,sales_cr,2076,2358,2488,2531,2695,2655,2881,3192,3406,3578,3809
